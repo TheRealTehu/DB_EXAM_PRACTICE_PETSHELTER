@@ -7,7 +7,8 @@ Az adatbázisban 2 tábla van `owners` és `pets` néven.
 - `city` varchar
 - `max_number_of_pets` int
 
-**Például:**  
+**Például:**
+
 | name | city | max_number_of_pets |
 |----------|---------|-----------|
 | John Johnson | Budapest | 4 |
@@ -22,7 +23,8 @@ Az adatbázisban 2 tábla van `owners` és `pets` néven.
 - `age` int
 - `current_owner` varchar
 
-**Például:**  
+**Például:**
+
 | name | species | age | current_owner |
 |-------|-------|----|-------------|
 | Cica | cat | 1 | John Johnson |
